@@ -1,0 +1,1 @@
+This code is used to build and publish a docker image that the kdux team once used as a basis for Rails servers on several projects. This has been deprecated in favor of https://github.com/broadinstitute/scp-rails-baseimage .
